@@ -2,3 +2,10 @@
 ** An editor front-end for Racket/Scribble
 
 GOAL: The text editor automatically sugars a file while buffering it, and desugars it while saving it back to storage.
+
+*** Libraries:
+cmdline
+charterm/lux-charterm
+rackconsole
+scribble
+pollen
