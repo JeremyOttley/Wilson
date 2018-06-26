@@ -5,7 +5,11 @@ GOAL: The text editor automatically sugars a file while buffering it, and desuga
 
 *** Libraries:
 cmdline
+
 charterm/lux-charterm
+
 rackconsole
+
 scribble
+
 pollen
