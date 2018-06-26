@@ -14,3 +14,5 @@ GOAL: The text editor automatically sugars a file while buffering it, and desuga
 -scribble
 
 -pollen
+
+INSPIRATION: https://sfwriter.com/wordstar.htm
