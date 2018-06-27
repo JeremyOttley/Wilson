@@ -15,6 +15,6 @@ GOAL: The text editor automatically sugars a file while buffering it, and desuga
 
 -pollen
 
-  -rewrite org in pollen
+  ^rewrite org in pollen
 
 INSPIRATION: https://sfwriter.com/wordstar.htm
